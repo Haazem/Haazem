@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Haazem
+- 👋 Hi, I’m Hazem
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning Data Analysis.
 - 📫 How to reach me my gmail : hazemhazozomanwa@gmail.com 
